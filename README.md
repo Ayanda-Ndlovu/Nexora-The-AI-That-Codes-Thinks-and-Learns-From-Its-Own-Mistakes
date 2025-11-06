@@ -2,8 +2,6 @@
 
 > “An intelligent, modular AI system that plans, codes, validates, and refines itself — powered by a fine-tuned TinyLlama model.”
 
-![Nexora Banner](https://via.placeholder.com/1000x250?text=Nexora+AI+Assistant)
-
 ---
 
 ## 🏷️ Badges
@@ -137,7 +135,7 @@ These metrics help visualize how “uncertain” or complex each task becomes �
 ### 🧩 1. Clone Repository
 
 ```bash
-git clone https://github.com/yourusername/nexora.git
+git clone https://github.com/Ayanda-Ndlovu/nexora.git
 cd nexora
 ```
 
@@ -170,15 +168,6 @@ Then reference your `.gguf` model file inside `assistant_hub/models/`.
 
 ---
 
-## 🎥 Demo
-
-📹 **[Watch Nexora in Action](#)**
-
-> “Can an AI truly learn from its own mistakes?”
-> Nexora plans, codes, and refines its own solutions — autonomously and offline.
-
----
-
 ## 🧰 Tech Stack
 
 | Category           | Tools & Frameworks         |
@@ -203,9 +192,9 @@ Then reference your `.gguf` model file inside `assistant_hub/models/`.
 
 ## 👤 Author
 
-**Ayanda [Your Surname]**
+**Ayanda Ndlovu**
 💼 AI Engineer | ML Developer | Indie Researcher
-📫 [LinkedIn](#) • [Portfolio](#) • [Email](#)
+📫 [LinkedIn](#https://www.linkedin.com/in/ayanda-ndlovu/) • [Portfolio](#https://github.com/AyandaNdlovu) • [Email](#ayandan881@gmail.com)
 
 > *“I build AI systems that learn to think.”*
 
