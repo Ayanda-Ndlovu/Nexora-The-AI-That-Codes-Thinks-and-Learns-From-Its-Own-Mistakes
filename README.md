@@ -194,7 +194,7 @@ Then reference your `.gguf` model file inside `assistant_hub/models/`.
 
 **Ayanda Ndlovu**
 💼 AI Engineer | ML Developer | Indie Researcher
-📫 [LinkedIn](#https://www.linkedin.com/in/ayanda-ndlovu/) • [Portfolio](#https://github.com/AyandaNdlovu) • [Email](#ayandan881@gmail.com)
+📫 [LinkedIn](https://www.linkedin.com/in/ayanda-ndlovu/) • [Portfolio](https://github.com/AyandaNdlovu) • [Email](ayandan881@gmail.com)
 
 > *“I build AI systems that learn to think.”*
 
